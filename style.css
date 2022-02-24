@@ -1,0 +1,138 @@
+@font-face {
+    font-family: '20_dbregular';
+    src: url('20db-webfont.eot');
+    src: url('20db-webfont.eot?#iefix') format('embedded-opentype'),
+         url('20db-webfont.woff2') format('woff2'),
+         url('20db-webfont.woff') format('woff'),
+         url('20db-webfont.ttf') format('truetype'),
+         url('20db-webfont.svg#20_dbregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+header
+{
+    background-image: url(Lion3.jpg);
+    border-bottom: solid ;
+    border-color: rgb(255, 123, 0);
+}
+span{
+    color: aquamarine;
+}
+
+
+.photo
+{
+    align-items: center;
+    text-align: center;
+    margin-left: 650px;
+}
+
+
+h1
+{
+    border-style: inset;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family: '20_dbregular', Arial, Serif;
+    border-radius: 2em;
+    background-color: black;
+    text-align: justify;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    letter-spacing: 1px;
+    border-color: rgb(255, 123, 0);
+}
+body
+{
+    margin:0px;
+    padding:0px;
+    
+    background-repeat: no-repeat;
+    font-family: '20_dbregular', Arial, Serif;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    background-repeat:no-repeat;
+    background-position: center;
+}
+ul
+{
+    color: rgb(255, 255, 255);
+}
+img
+{
+    border-style: inset;
+    border-color: rgb(255, 123, 0);
+    border-radius: 2em;
+    box-shadow: 10px 10px 10px rgb(0, 0, 0);
+    margin-bottom: 40px;
+}
+.galere
+{
+    align-items: center;
+}
+.presentation
+{
+    display: flex;
+    align-items: center;
+
+}
+.experience
+{
+    
+    margin-top: 40px;
+
+    
+}
+
+.competences
+{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    letter-spacing: 7px;
+    border-left-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 27px;
+    line-height: 50px;
+  
+   
+
+}
+
+#milieu
+{
+    display: flex;
+    
+    background-image: url(fond3.jpg);
+}
+
+
+.photo
+{
+    display: flex;
+}
+
+ul
+{
+    border-style: none;
+    list-style-type: none;
+
+}
+h3
+{
+    color: rgb(255, 255, 255);
+}
+h2
+{
+    text-align: center;
+    
+    border-radius: 2em;
+    letter-spacing: 10px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
